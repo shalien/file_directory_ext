@@ -1,0 +1,14 @@
+name: file_directory_ext
+description: Extend the File and Directory class to provide easy access to name and extensions
+version: 0.1.1
+homepage: https://github.com/shalien/file_directory_ext
+
+environment:
+  sdk: '>=2.8.1 <3.0.0'
+
+#dependencies:
+#  path: ^1.7.0
+
+dev_dependencies:
+  pedantic: ^1.9.0
+  test: ^1.14.4
