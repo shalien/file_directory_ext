@@ -19,3 +19,8 @@
 ## 0.1.2
 
 - Added support for dart:html file (name, basename, extension)
+
+
+## 0.1.3
+
+- Typo in HTML export
