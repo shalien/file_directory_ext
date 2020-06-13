@@ -1,6 +1,6 @@
 name: file_directory_ext
 description: Extend the File and Directory class to provide easy access to name and extensions
-version: 0.1.2
+version: 0.1.3
 homepage: https://github.com/shalien/file_directory_ext
 
 environment:
