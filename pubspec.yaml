@@ -6,6 +6,7 @@ homepage: https://github.com/shalien/file_directory_ext
 environment:
   sdk: '>=2.8.1 <3.0.0'
 
+
 #dependencies:
 #  path: ^1.7.0
 

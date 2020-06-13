@@ -1,7 +1,7 @@
 import 'dart:io';
 
 /// Extends [Link] to add commonly needed properties
-extension LinkExtension on Link {
+extension LinkIOExtension on Link {
   ///  Get the name of the [Link] including the extension
   String get name => path.split(Platform.pathSeparator)?.last;
 

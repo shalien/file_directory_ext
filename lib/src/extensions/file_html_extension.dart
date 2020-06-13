@@ -1,7 +1,7 @@
 import 'dart:html';
 
 /// Extends [File] to add commonly needed properties
-extension FileExtension on File {
+extension FileHTMLExtension on File {
   /// Get the name of the [File] without the extension
   String get basename => name;
 

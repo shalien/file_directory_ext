@@ -1,7 +1,7 @@
 import 'dart:io';
 
 /// Extends [File] to add commonly needed properties
-extension FileExtension on File {
+extension FileIOExtension on File {
   ///  Get the name of the [File] including the extension
   String get name => path.split(Platform.pathSeparator)?.last;
 
