@@ -15,3 +15,7 @@
 
 - Added experimental support for moving a directory into a parent directory with the same name
 - Added Tests
+
+## 0.1.2
+
+- Added support for dart:html file (name, basename, extension)
