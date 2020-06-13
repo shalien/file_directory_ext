@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'file_extension.dart';
+import 'file_io_extension.dart';
 
 extension DirectoryExtension on Directory {
   /// Get the name of the [Directory]
