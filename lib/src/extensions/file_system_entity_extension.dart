@@ -10,7 +10,7 @@ extension FileSystemEntityExtension on FileSystemEntity {
 
   /// Move a [FileSystemEntity] into it's parent location
   Future<FileSystemEntity> moveToParent() {
-      return rename(parent.path + Platform.pathSeparator + name);
+    return rename(parent.path + Platform.pathSeparator + name);
   }
 
   /// Move a [FileSystemEntity] into it's parent location

@@ -1,6 +1,5 @@
 import 'dart:io';
 
-
 // Must be imported to allow the use of the extended properties
 import 'package:file_directory_ext/file_directory_ext.dart';
 

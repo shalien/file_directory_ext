@@ -11,7 +11,7 @@
 - Renamed files to have more logical name
 
 
-## 0.0.1
+## 0.1.1
 
 - Added experimental support for moving a directory into a parent directory with the same name
 - Added Tests
